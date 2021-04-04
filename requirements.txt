@@ -5,5 +5,5 @@
 #coverage
 #pypi-publisher
 keras
-tensorflow
+tensorflow-cpu
 matplotlib
